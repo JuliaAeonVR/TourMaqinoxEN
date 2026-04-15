@@ -1,9 +1,9 @@
 {
+ "start_url": "index.htm?installed=true",
  "display": "fullscreen",
  "background_color": "#FFFFFF",
  "theme_color": "#FFFFFF",
  "name": "AeonVR - Tour Maqinox (EN)",
- "start_url": "index.htm?installed=true",
  "icons": [
   {
    "sizes": "150x150",
